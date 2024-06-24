@@ -1,0 +1,23 @@
+[33mcommit bb08b13559844582ef1f7cfbbfb5081f9864ec71[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: William Torres <williaan.co@gmail.com>
+Date:   Mon Jun 24 11:55:06 2024 -0300
+
+    Starting to implement Board and Piece
+
+[33mcommit bbea2e075d5b70c8a3eca79d451674a579b32be0[m
+Author: William Torres <williaan.co@gmail.com>
+Date:   Thu Jun 20 16:15:29 2024 -0300
+
+    First class: Position
+
+[33mcommit 63c29ac2d49731d39135091eec22c132f0e45dc6[m
+Author: William Torres <williaan.co@gmail.com>
+Date:   Wed Jun 5 19:33:14 2024 -0300
+
+    Create project
+
+[33mcommit 2b102321ec47847445687d6988ee81d983c40c65[m
+Author: WilliamTorresBlu <58447746+WilliamTorresBlu@users.noreply.github.com>
+Date:   Wed Jun 5 11:13:59 2024 -0300
+
+    Initial commit
